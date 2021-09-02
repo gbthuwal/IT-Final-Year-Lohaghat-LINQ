@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Element are - StoreItems, Item, Name, Specification, Quantity, Make, Price -->
+<StoreItems>
+  <Item ID="101">
+    <Name>Computer Desktop</Name>
+    <Specification>Windows 10 Professional, Ram 32 GB, SSD 1 TB, Processor- Core i5 Gen10</Specification>
+    <Quantity>20</Quantity>
+    <Make>LENOVO INDIA LTD</Make>
+    <Price>89000</Price>
+  </Item>
+  <Item ID="102">
+    <Name>Computer Laptop</Name>
+    <Specification>Windows 10 Professional, Ram 16 GB, SSD 500GB, Processor- Core i5 Gen11</Specification>
+    <Quantity>20</Quantity>
+    <Make>HP India Ltd</Make>
+    <Price>84900</Price>
+  </Item>
+  <Item ID="103">
+    <Name>Network Switch</Name>
+    <Specification>Ram 4 GB, SSD 50GB, Processor- Core i5 Gen3 </Specification>
+    <Quantity>10</Quantity>
+    <Make> CISCO </Make>
+    <Price>145000</Price>
+  </Item>
+  <Item ID="104">
+    <Name>Networking Router</Name>
+    <Specification>Make- Cisco, OS- Cisco IOS, Dimension- 4X3 m, Aspect Ratio- 16:10</Specification>
+    <Quantity>15</Quantity>
+    <Make> CISCO </Make>
+    <Price>145000</Price>
+  </Item>
+  <Item ID="105">
+    <Name>Computer All in One</Name>
+    <Specification>Windows 10, Ram 16 GB, SSD 500GB, Processor- Core i5 Gen11</Specification>
+    <Quantity>12</Quantity>
+    <Price>84900</Price>
+    <Make>Samsung India Ltd</Make>
+  </Item>
+  <Item ID="106">
+    <Name>UPS Online</Name>
+    <Specification>30KVA, Battery Backup 5 hrs</Specification>
+    <Quantity>5</Quantity>
+    <Make>UNILINE INDIA LTD</Make>
+    <Price>256000</Price>
+  </Item>
+</StoreItems>

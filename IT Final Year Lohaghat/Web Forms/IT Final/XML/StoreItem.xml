@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StoreItem>
+	<Computer ID ="101">
+		<ComputerID>1</ComputerID>
+		<ComputerName>Computer Desktop</ComputerName>
+		<Specification>Ram 4 GB, SSD 500GB, Processor- Core i5 Gen3 </Specification>
+		<Quantity>10</Quantity>
+		<Make> Hewelett Packers </Make>
+		<UnitPrice>45000</UnitPrice>
+	</Computer>
+	<Computer ID ="105">
+		<ComputerID>2</ComputerID>
+		<ComputerName>Computer Laptop</ComputerName>
+		<Specification>Windows 10 Professional, Ram 16 GB, SSD 500GB, Processor- Core i5 Gen3 </Specification>
+		<Quantity>10</Quantity>
+		<Make> Dell </Make>
+		<UnitPrice>45000</UnitPrice>
+	</Computer>
+	<Computer ID ="109">
+		<ComputerID>3</ComputerID>
+		<ComputerName>Network Switch</ComputerName>
+		<Specification>Ram 4 GB, SSD 50GB, Processor- Core i5 Gen3 </Specification>
+		<Quantity>10</Quantity>
+		<Make> CISCO </Make>
+		<UnitPrice>145000</UnitPrice>
+	</Computer>
+	<Computer  ID ="111">
+		<ComputerID>4</ComputerID>
+		<ComputerName>Router</ComputerName>
+		<Specification>Make- Cisco, OS- Cisco IOS, Dimension- 4X3 m, Aspect Ratio- 16:10</Specification>
+		<Quantity>10</Quantity>
+		<Make> CISCO </Make>
+		<UnitPrice>145000</UnitPrice>
+	</Computer>
+
+
+	<Departments>
+		<DeptID>1</DeptID>
+		<DeptName>Computer Engineering</DeptName>
+	</Departments>
+	
+	<Departments>
+		<DeptID>2</DeptID>
+		<DeptName>Electronics Engineering</DeptName>
+	</Departments>
+	
+	<Departments>
+		<DeptID>3</DeptID>
+		<DeptName>Civil Engineering</DeptName>
+	</Departments>
+	
+	<Departments>
+		<DeptID>4</DeptID>
+		<DeptName>Information Technology</DeptName>
+	</Departments>
+
+	<Departments>
+		<DeptID>5</DeptID>
+		<DeptName>Pharmacy</DeptName>
+	</Departments>
+
+
+
+	<Electronics>
+		<ElectronicsID>1</ElectronicsID>
+		<ElectronicsName>Cathode Ray Oscilloscope</ElectronicsName>
+		<Specification>3D Waveform</Specification>
+		<Quantity>20</Quantity>
+		<Make> Hinduja </Make>
+		<UnitPrice>45000</UnitPrice>
+	</Electronics>
+	<Electronics>
+		<ElectronicsID>2</ElectronicsID>
+		<ElectronicsName>Computer Laptop</ElectronicsName>
+		<Specification>Windows 10 Professional, Ram 16 GB, SSD 500GB, Processor- Core i5 Gen3 </Specification>
+		<Quantity>20</Quantity>
+		<Make> Lenevo </Make>
+		<UnitPrice>65000</UnitPrice>
+	</Electronics>
+	<Electronics>
+		<ElectronicsID>3</ElectronicsID>
+		<ElectronicsName>Digital multimeters</ElectronicsName>
+		<Specification>Make - MS Sons</Specification>
+		<Quantity>25</Quantity>
+		<Make> CISCO </Make>
+		<UnitPrice>3450</UnitPrice>
+	</Electronics>
+	<Electronics>
+		<ElectronicsID>4</ElectronicsID>
+		<ElectronicsName>Op-Amp Test Set</ElectronicsName>
+		<Specification>Make- Philips</Specification>
+		<Quantity>10</Quantity>
+		<Make> CISCO </Make>
+		<UnitPrice>4500</UnitPrice>
+	</Electronics>
+	
+</StoreItem>
